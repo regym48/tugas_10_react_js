@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/tugas_10_react_js/static/js/main.6688a5de.chunk.js",
+    "main.js.map": "/tugas_10_react_js/static/js/main.6688a5de.chunk.js.map",
+    "runtime-main.js": "/tugas_10_react_js/static/js/runtime-main.18061343.js",
+    "runtime-main.js.map": "/tugas_10_react_js/static/js/runtime-main.18061343.js.map",
+    "static/css/2.37477544.chunk.css": "/tugas_10_react_js/static/css/2.37477544.chunk.css",
+    "static/js/2.4e5192b8.chunk.js": "/tugas_10_react_js/static/js/2.4e5192b8.chunk.js",
+    "static/js/2.4e5192b8.chunk.js.map": "/tugas_10_react_js/static/js/2.4e5192b8.chunk.js.map",
+    "static/js/3.903979f7.chunk.js": "/tugas_10_react_js/static/js/3.903979f7.chunk.js",
+    "static/js/3.903979f7.chunk.js.map": "/tugas_10_react_js/static/js/3.903979f7.chunk.js.map",
+    "index.html": "/tugas_10_react_js/index.html",
+    "static/css/2.37477544.chunk.css.map": "/tugas_10_react_js/static/css/2.37477544.chunk.css.map",
+    "static/js/2.4e5192b8.chunk.js.LICENSE.txt": "/tugas_10_react_js/static/js/2.4e5192b8.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/tugas_10_react_js/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18061343.js",
+    "static/css/2.37477544.chunk.css",
+    "static/js/2.4e5192b8.chunk.js",
+    "static/js/main.6688a5de.chunk.js"
+  ]
+}
